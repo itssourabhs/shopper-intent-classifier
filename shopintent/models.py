@@ -61,7 +61,8 @@ def build_preprocessor() -> ColumnTransformer:
     """
     numeric = Pipeline(
         steps=[
-            ("log1p", FunctionTransformer(np.log1p)),
+            # one-to-one: column names survive, so coefficients can be read by name
+            ("log1p", FunctionTransformer(np.log1p, feature_names_out="one-to-one")),
             ("scale", StandardScaler()),
         ]
     )
