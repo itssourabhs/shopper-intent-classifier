@@ -76,7 +76,7 @@ test file.
 
 ## c. GitHub Repository Link
 
-**TODO_GITHUB_URL**
+TODO_GITHUB_URL
 
 ```
 shopper-intent-classifier/
