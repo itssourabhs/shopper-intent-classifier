@@ -1,0 +1,9 @@
+# Pinned to the exact versions the models in model/ were trained with.
+# A .joblib file must be loaded by the same scikit-learn version that saved it.
+streamlit==1.67.0
+scikit-learn==1.9.1
+scipy==1.18.1
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+joblib==1.6.0
