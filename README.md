@@ -4,8 +4,8 @@ Machine Learning, Assignment 2 · M.Tech AI & ML · BITS Pilani WILP · First Se
 
 | | |
 |---|---|
-| **Live Streamlit app** | TODO_STREAMLIT_URL |
-| **GitHub repository** | TODO_GITHUB_URL |
+| **Live Streamlit app** | https://shopper-intent-classifier-ml-bits-assignment-2.streamlit.app |
+| **GitHub repository** | https://github.com/itssourabhs/shopper-intent-classifier |
 
 ---
 
@@ -76,7 +76,7 @@ test file.
 
 ## c. GitHub Repository Link
 
-TODO_GITHUB_URL
+https://github.com/itssourabhs/shopper-intent-classifier
 
 ```
 shopper-intent-classifier/
